@@ -1,5 +1,5 @@
 {
-  "name": "is-json",
+  "name": "test-json",
   "version": "1.0.0",
   "description": "test if string is valid JSON or not",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sirrodgepodge/is-json.git"
+    "url": "git+https://github.com/sirrodgepodge/test-json.git"
   },
   "author": "sirRodgePodge",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sirrodgepodge/is-json/issues"
+    "url": "https://github.com/sirrodgepodge/test-json/issues"
   },
-  "homepage": "https://github.com/sirrodgepodge/is-json#readme"
+  "homepage": "https://github.com/sirrodgepodge/test-json#readme"
 }
