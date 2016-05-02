@@ -9,5 +9,5 @@ console.log(isJSON('{I am not a valid JSON}')); // => false
 ```
 [![NPM][nodei-image]][nodei-url]
 
-[nodei-image]: https://nodei.co/npm/get-scrollbar-width.png?downloads=true&downloadRank=true&stars=true
-[nodei-url]: https://www.npmjs.com/package/get-scrollbar-width
+[nodei-image]: https://nodei.co/npm/is-json.png?downloads=true&downloadRank=true&stars=true
+[nodei-url]: https://www.npmjs.com/package/is-json
