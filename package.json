@@ -1,6 +1,6 @@
 {
   "name": "test-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "test if string is valid JSON or not",
   "main": "index.js",
   "scripts": {
